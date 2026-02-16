@@ -10,5 +10,5 @@ The website was developed with these technolgies
 html 5;
 CSS 3;
 Java Script;
-Gimb;
+Gimp;
 Jekyll 
