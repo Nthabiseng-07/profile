@@ -5,7 +5,7 @@ educational details;
 software development experience;
 work experience; 
 my hobbies;
-and everything else about me 
+and everything else about me
 the website was developed with these technolgies 
 html 5;
 CSS 3;
