@@ -1,5 +1,5 @@
 # profile
-this is a personal website about myself Nthabiseng Gabaitse
+This is a personal website about myself Nthabiseng Gabaitse
 it specifies my personal details;
 educational details; 
 software development experience;
